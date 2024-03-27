@@ -154,3 +154,4 @@ elif shablon == ("shablon3"):
     shablon3()
 else:
     print("please refresh")
+
